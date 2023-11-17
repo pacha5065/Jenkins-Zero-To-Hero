@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: prem5065/ultimate-cicd:replaceImageTag
+        image: prem5065/ultimate-cicd:2
         ports:
         - containerPort: 8080
